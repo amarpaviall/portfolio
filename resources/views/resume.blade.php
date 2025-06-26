@@ -5,6 +5,6 @@
    <title>Resume</title>
     </head>
     <body>
-
+     {{ $resume['basics']['name']}}
     </body>
 </html>
